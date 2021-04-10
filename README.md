@@ -4,16 +4,14 @@ I just created a Latam Airlines logo to put into practice and pratice more all k
 ### Project:
 
 <p align="center">
-  <img src="card.gif">
+  <img src="latam.gif">
 </p>
 
 ***
 
 ### :electron:	 Technologies:
 
-[![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
-
-[![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
+[![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91) [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ***
 ### 📑 License:
